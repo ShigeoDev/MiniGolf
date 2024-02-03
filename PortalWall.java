@@ -4,7 +4,7 @@ import java.awt.Color;
 public class PortalWall extends Wall {
 
     // Attribute if wall is on or off
-    private boolean on
+    private boolean on;
     // Other portal that it is linked to
     private PortalWall link;
 
